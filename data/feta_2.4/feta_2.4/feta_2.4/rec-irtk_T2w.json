@@ -1,0 +1,5 @@
+{
+	"ReconstructionName": "SimpleIRTK",
+	"ReconstructionDescription": "Reconstruction performed using irtk-simple: https://gitlab.com/mariadeprez/irtk-simple",
+
+}

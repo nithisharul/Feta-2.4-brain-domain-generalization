@@ -1,0 +1,23 @@
+----------------------------
+FeTA 2.0 - Release 03.05.2021
+Release of the dataset for the FeTA Challenge, MICCAI 2021
+----------------------------
+FeTA 2.1 - release 27.05.2021
+Subjects 001-040: .json files updated to contain more accurate resolution information
+Subjects 041-080: Images (*T2w.nii.gz) and Label annotations (*dseg.nii.gz) updated: 
+			-The resolution of all files is now 0.5x0.5x0.5mm^3
+			-Erroneous label numbers (ex Label 13) removed
+			-Label annotations were corrected
+----------------------------
+FeTA 2.2 - release 01.06.2021
+Subjects 047, 065: Pathology changed from Normal to Pathological in participants.tsv
+README: Deleted reference to the year (2021), updated link to website, updated reference
+----------------------------
+FeTA 2.3 - release 17.05.2024
+Added a new task for biometry in the derivatives
+----------------------------
+FeTA 2.4 - release 10.07.2024
+In the biometry folder.
+- Corrected the biometry for subject 002: LCC was mislabeled, TCD was missing.
+- measures.tsv: Corrected the mistake that LCC was labelled as 2 and HV as 1. 
+- biometry.tsv: Changed the ordering of the columns to reflect the ordering of the labels.

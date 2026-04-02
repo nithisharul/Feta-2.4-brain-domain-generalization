@@ -1,0 +1,25 @@
+Fetal Tissue Annotation Challenge (FeTA) - MICCAI
+
+This dataset is the training dataset for the FeTA Challenge held at the MICCAI Conference. The dataset consists of T2-weighted fetal brain super-resolution reconstructions and the associated manually-created label map consisting of seven different tissues: 
+0. Background and non-brain tissue
+1. Cerebrospinal fluid
+2. Grey Matter
+3. White Matter
+4. Ventricles
+5. Cerebellum
+6. Deep Grey Matter
+7. Brainstem
+
+The goal of this dataset is to encourage research groups to create automatic multi-class segmentation methods to segment the fetal brain across a range of gestational ages and a variety of brain pathologies as well as normally developing fetal brains. 
+
+Note. The `derivatives` folder contains the biometric measurements done for the edition 2024 of the FeTA challenge. All informations are available in the `derivatives/biometry` folder.
+
+See https://fetachallenge.github.io/ for more details, and to register for the FeTA Challenge.
+
+
+If you use this dataset, please cite the following: 
+
+Payette, K., de Dumast, P., Kebiri, H. et al. An automatic multi-tissue human fetal brain segmentation benchmark using the Fetal Tissue Annotation Dataset. Sci Data 8, 167 (2021). https://doi.org/10.1038/s41597-021-00946-3
+
+
+

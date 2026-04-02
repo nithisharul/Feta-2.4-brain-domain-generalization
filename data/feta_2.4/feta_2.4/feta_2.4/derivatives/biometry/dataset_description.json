@@ -1,0 +1,15 @@
+{
+    "Name": "Fetal Tissue Annotation Challenge (FeTA) Dataset - Biometric measurements",
+    "BIDSVersion": "1.6.1",
+    "DatasetType": "derivative",
+    "License": "See license file",
+    "Authors": [
+        "Thomas Sanchez, Yvan Gomez, Meriam Koob, Andras Jakab, Meritxell Bach Cuadra"
+    ],
+    "Acknowledgements": "Special thanks to the annotators who carried out the biometric measurements, Yvan Gomez, Andras Jakab and Meriam Koob.",
+    "HowToAcknowledge": "Please cite our Zenodo dataset: Sanchez et al. (2024) Fetal Tissue Annotation Challenge (FeTA) Biometry - MICCAI 2024.  https://doi.org/10.5281/zenodo.11192452",
+    "Funding": [
+        "Swiss National Science Foundation grant #215614","ERA-NET Neuron MULTI-FACT project (SNSF 31NE30 203977)","University Research Priority Program “Adaptive Brain Circuits in Development and Learning (AdaBD)", "Prof. Dr. Max Cloetta Foundation", "Novartis Foundation for Medical-Biological Research", 
+    ],
+    "EthicsApprovals": "The ethics committees of Zürich (Decision numbers: 2017-00885, 2016-01019, 2017-00167) agreed to the protocols of the retrospective studies."
+}

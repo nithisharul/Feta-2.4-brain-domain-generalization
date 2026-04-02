@@ -1,0 +1,71 @@
+	LCC	HV	bBIP	sBIP	TCD	Pathology	Gestational age
+sub-001	28.77	15.3	61.56	71.06	33.18	Pathological	27.9
+sub-002	32.4	10.4	64.28	72.98	25.6	Pathological	28.2
+sub-003	20.26	14.68	63.78	69.71	28.16	Pathological	27.4
+sub-005	26.06					Pathological	22.6
+sub-006	25.11	14.03	60.03	68.95	24.66	Pathological	24.9
+sub-010	30.08	15.89	63.56	74.28	30.3	Pathological	27.3
+sub-011	35.41	14.72	56.96	68.22	29.69	Pathological	27.6
+sub-012	25.64	13.49	60.42	66.15	27.35	Pathological	25.9
+sub-013	33.86	13.53	55	61.05	26.49	Pathological	27.5
+sub-014	33.29	16.12	60.59	66.06	29.17	Pathological	26.7
+sub-016			52.68	54.8		Pathological	23.3
+sub-018	36.7	14.6	65.81	72.39	29.2	Pathological	28.5
+sub-019	35.74	16.15	64.43	70.13	31.59	Pathological	29.2
+sub-021	26.8	7.57	51.49	57.25	20.57	Pathological	26.1
+sub-024	35.64	14.39	70.45	78.81	29.5	Pathological	30.4
+sub-025	26.64		54.61	56.73		Pathological	24.2
+sub-026	34.02	11.84	60.35	72.19	32.51	Neurotypical	27.8
+sub-027	33.69	13.42	55.02	66.26	29.75	Neurotypical	26.5
+sub-028	38.44	18.81	77.04	80.93	44.6	Neurotypical	31.1
+sub-029	35.24	18.11	74.76	79.8	38.95	Neurotypical	32.5
+sub-030	36.07	20.12	77.77	84.08	41.44	Neurotypical	33.4
+sub-031	40.98	17.4	77.04	83.71	43.02	Neurotypical	31.4
+sub-032	42.63	18.88	74.82		40.18	Neurotypical	32.3
+sub-033	32.91	15.5	65.65	69.34	34.37	Neurotypical	30
+sub-034	28.14	14.25	64.68	76.29	36.05	Neurotypical	28.7
+sub-035	38.22	16.94	74.6	77.3	43.14	Neurotypical	32.8
+sub-036	23.82	10.82	45.79	52.51	23.01	Neurotypical	22.7
+sub-037	29.16	11.71	56.4	63.3	27.59	Neurotypical	23.4
+sub-038	35.2	15.22	63.12	74.39	32.83	Neurotypical	26.9
+sub-039	30.49	12.72	51.71	58.9	25.33	Neurotypical	24.3
+sub-040	36.27	15.53	61.67	68.13	34.23	Neurotypical	27.3
+sub-041	50.17	18.47	83.86	92.02	49.56	Neurotypical	34.8
+sub-042	29.62	12.45	51.47	58.94	24.54	Pathological	23.6
+sub-043	25.13	9.91	53.4	62.79	25.73	Pathological	22.9
+sub-044	32.69	15.46	56.51	65.77	30.66	Neurotypical	27.9
+sub-045	30.39	10.86	52.58	65.15	25.94	Neurotypical	24.7
+sub-046	28.75	12.69	54.16	63.79	28.23	Neurotypical	23.9
+sub-047	35.24	14.92	64.87	72.67	35.71	Pathological	28.1
+sub-048	34.58	14.72	61.34	67.15	31.17	Pathological	27.9
+sub-049	36.89	16.23	68.25	76.8	35.21	Pathological	31.1
+sub-050	44.67	14.87	85.43	91.99	39.36	Pathological	33.1
+sub-051	38.87	17.09	65.55	80.28	34.47	Neurotypical	29.6
+sub-052	28.29	9.1	52.35	55.18	16.34	Pathological	21.2
+sub-053	38.57	15.83	68.48	77.31	35.85	Neurotypical	30.3
+sub-054	38.29	20.61	78.32	83.62	44.63	Pathological	33.1
+sub-055	34.79	11.78	55.63	61.12	25.9	Pathological	27.1
+sub-056	29.4	12.91	57.7	62.93	26.66	Pathological	26.6
+sub-057	34.59	15.54	62.15	74.68	35.53	Neurotypical	28.2
+sub-058	29.5	15.77	63.73	71.55	36.52	Neurotypical	29.2
+sub-059	39.86	19.52	86.61	93.53	45.47	Neurotypical	34.8
+sub-060	35.66	19.62	71.64	75.54	40.21	Neurotypical	31.7
+sub-061	39.15	17.23	76.26	85.45	45.24	Neurotypical	33
+sub-062	26.68	12.73	51.56	57.29	27.69	Neurotypical	24.4
+sub-063	20.33	9.54	40.8	51.62	21.53	Pathological	21.7
+sub-064	23.62	9.04	58.75	68.81	23.18	Pathological	27.8
+sub-065	20.68	8.21	48.13	53.56	21.52	Pathological	20.9
+sub-066		10.91	50.53	55.3	21.82	Pathological	21.8
+sub-067	36.8	16.21	67.84	74.33	32.42	Pathological	29
+sub-068	35.45	17.62	76.2	82.79	42.72	Neurotypical	31.5
+sub-069	38.05	16.4	65.36	74.23	34.14	Pathological	27.4
+sub-070	19.38	9.29	42.97	48.45	19.69	Pathological	20.1
+sub-071	22.74	12.45	43.88	46.8	20.44	Pathological	22.4
+sub-072	26.36	13.15	51.63	59.74	26.97	Neurotypical	25.9
+sub-073	29.74	11.12	62.4	74.85	31.13	Pathological	27.2
+sub-074	25.59	10.73	49.2	55.16	24.71	Pathological	23.3
+sub-075	33.49	17.65	67.21	72.75	32.51	Pathological	29
+sub-076	24.63	10.96	49.94	54.4	25.98	Neurotypical	23.2
+sub-077	28.25	15.29	58.25	63.67	28.22	Pathological	26.9
+sub-079	33.03	17.23	67.62	75.59	35.93	Neurotypical	29.1
+sub-080	28.52	13.39	55.32	64.01	27.76	Pathological	26.9

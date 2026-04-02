@@ -1,0 +1,14 @@
+{
+	"Manual": true,
+	"Resolution": "0.5078x0.5078x0.5078 mm^3",
+	"LabelMap": [
+		"BG"
+		"CSF",
+		"GM",
+		"WM",
+		"LV",
+		"CBM",
+		"SGM",
+		"BS",
+		]
+}

@@ -1,0 +1,16 @@
+{
+"Pathology": {
+"Description": "Presence of fetal pathology",
+"Levels": 
+{"Pathological": "Fetal pathology",
+"Neurotypical": "Fetus with no apparent neurodevelopmental malformation"}
+},
+"Rater": {
+"Description": "ID of the rater that conducted the biometric measurements on a given case"
+},
+"Gestational age": {
+"Description": "Gestational age of the fetus",
+"Units": "Weeks"
+}
+
+}
